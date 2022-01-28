@@ -20,10 +20,10 @@
         }
     }
 
-    $filter = new ExtensionFilter(
-                    new DirectoryIterator('.'),
-                    'php'
-                );
-    foreach( $filter as $file ) {
-        echo $file . "<br/>";
-    }
+    // $filter = new ExtensionFilter(
+    //                 new DirectoryIterator('.'),
+    //                 'php'
+    //             );
+    // foreach( $filter as $file ) {
+    //     echo $file . "<br/>";
+    // }
