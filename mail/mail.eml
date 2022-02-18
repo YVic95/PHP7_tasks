@@ -1,0 +1,8 @@
+From: Robot <somebody@gmail.com>
+To: {TO}
+Subject: Hello!
+Content-type: text/plain; charset=utf-8
+
+Hi, {TO}!
+{TEXT}
+This message was generated automatically. Dont reply!
