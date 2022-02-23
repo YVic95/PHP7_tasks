@@ -1,0 +1,10 @@
+From: Robot <somebody@ukr.net>
+To: <?= $to ?> 
+Subject: Hi!
+Content-type: text/plain; charset=utf-8
+
+Hi! <?= $to ?>!
+<?= $text ?> 
+The contents of the environment variables at the time the email was sent:
+<?php print_r($_SERVER) ?>  
+This message was generated automatically, dont reply to it
