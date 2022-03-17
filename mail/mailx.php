@@ -15,13 +15,13 @@
         }
         //print_r($p);
         mail( $to, $subject, $body, trim($head) );
-        echo $to;
-        echo "<br>";
-        echo $subject;
-        echo "<br>";
-        echo $body;
-        echo "<br>";
-        print_r( trim($head) );
-        echo "<br>";
+        // echo $to;
+        // echo "<br>";
+        // echo $subject;
+        // echo "<br>";
+        // echo $body;
+        // echo "<br>";
+        // print_r( trim($head) );
+        // echo "<br>";
 
     }
